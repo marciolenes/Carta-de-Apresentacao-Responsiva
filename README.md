@@ -1,4 +1,4 @@
-# Portfólio Simples utilizando Flexbox [Com Responsividade]
+# Portfólio utilizando Flexbox [Com Responsividade]
 
 Projeto de um site responsivo usando apenas HTML e CSS feito com o objetivo de praticar a especificação Flexbox.<br>
 Nesse projeto aprendi:<br><br>
